@@ -5,6 +5,8 @@
 <h3> Aulas com entrega:</h3>
 <ul>
 <li>Aula 2 ( App com Vite + React )</li>
+<li>Aula 3 ( Menu E-COMMERCE )</li>
+<li>Aula 4 ( Criando uma LP ( Landing Page) )</li>
 
 </ul>
 
