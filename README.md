@@ -1,13 +1,8 @@
-﻿<h2>Material referente as entregas dos desafios no curso de React.JS na Coderhouse Brasil</h2>
+# React + Vite
 
-<hr>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<h3> Aulas com entrega:</h3>
-<ul>
-<li>Aula 2 ( App com Vite + React )</li>
-<li>Aula 3 ( Menu E-COMMERCE )</li>
-<li>Aula 4 ( Criando uma LP ( Landing Page) )</li>
+Currently, two official plugins are available:
 
-</ul>
-
-<span>Acesse as aulas pelas branches</span>
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
