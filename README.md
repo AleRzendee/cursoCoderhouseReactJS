@@ -1,15 +1,11 @@
-﻿<h2>Material referente as entregas dos desafios no curso de React.JS na Coderhouse Brasil</h2>
+<h1>Screenshot of result</h1>
 
+<img src="./src/assets/scs1.png" style="width: 100%">
+<img src="./src/assets/scs2.png" style="width: 100%">
+
+
+<h2>Descrição:</h2>
 <hr>
-
-<h3> Aulas com entrega:</h3>
-<ul>
-<li>Aula 2 ( App com Vite + React )</li>
-<li>Aula 3 ( Menu E-COMMERCE )</li>
-<li>Aula 4 ( Criando uma LP ( Landing Page) )</li>
-<li>Aula 5 ( Contador com botão )</li>
-<li>Aula 6 ( Catálogo com maps e promises )</li>
-
-</ul>
-
-<span>Acesse as aulas pelas branches</span>
+<div>
+<p>02/12 Desafio ( Catálogo com maps e promises ) da Aula 6 ( Promises, assincronia e map ) do curso de React.js na CoderHouse; Turma #63750 de 2024.</p>
+</div>
