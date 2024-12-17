@@ -9,6 +9,7 @@
 <li>Aula 4 ( Criando uma LP ( Landing Page) )</li>
 <li>Aula 5 ( Contador com botão )</li>
 <li>Aula 6 ( Catálogo com maps e promises )</li>
+<li>Aula 7 ( Detalhe do Produto )</li>
 
 </ul>
 
