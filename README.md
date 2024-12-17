@@ -8,6 +8,7 @@
 <li>Aula 3 ( Menu E-COMMERCE )</li>
 <li>Aula 4 ( Criando uma LP ( Landing Page) )</li>
 <li>Aula 5 ( Contador com botão )</li>
+<li>Aula 6 ( Catálogo com maps e promises )</li>
 
 </ul>
 
