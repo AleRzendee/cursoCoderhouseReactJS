@@ -28,7 +28,7 @@ function ItemDetail({ item }) {
         ) : (
           <div>
             <p>Você adicionou {quantityToAdd} itens ao carrinho.</p>
-            <button onClick={handleGoToCart} className="btn btn-primary">
+            <button onClick={handleGoToCart} className="btn btn-success">
               Finalizar minha compra
             </button>
           </div>
