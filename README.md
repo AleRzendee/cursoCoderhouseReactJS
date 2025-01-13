@@ -12,6 +12,8 @@
 <li>Aula 7 ( Detalhe do Produto )</li>
 <li>Aula 8 ( Primeira Entrega )</li>
 <li>Aula 9 ( Sincronizar Counter )</li>
+<li>Aula 10 ( CartContext )</li>
+<li>Aula 11 ( Cart View )</li>
 
 </ul>
 
