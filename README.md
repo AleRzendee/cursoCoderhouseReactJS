@@ -1,20 +1,5 @@
-﻿<h2>Material referente as entregas dos desafios no curso de React.JS na Coderhouse Brasil</h2>
-
+<h2>Descrição:</h2>
 <hr>
-
-<h3> Aulas com entrega:</h3>
-<ul>
-<li>Aula 2 ( App com Vite + React )</li>
-<li>Aula 3 ( Menu E-COMMERCE )</li>
-<li>Aula 4 ( Criando uma LP ( Landing Page) )</li>
-<li>Aula 5 ( Contador com botão )</li>
-<li>Aula 6 ( Catálogo com maps e promises )</li>
-<li>Aula 7 ( Detalhe do Produto )</li>
-<li>Aula 8 ( Primeira Entrega )</li>
-<li>Aula 9 ( Sincronizar Counter )</li>
-<li>Aula 10 ( CartContext )</li>
-<li>Aula 11 ( Cart View )</li>
-
-</ul>
-
-<span>Acesse as aulas pelas branches</span>
+<div>
+<p>16/12 Desafio ( CartContext ) da Aula 10 ( Contexto(context) ) do curso de React.js na CoderHouse; Turma #63750 de 2024.</p>
+</div>

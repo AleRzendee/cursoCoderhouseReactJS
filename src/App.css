@@ -1,0 +1,131 @@
+/* Estilo geral */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Estilo do cabeçalho */
+.header {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+/* CartWidget */
+.cart-widget {
+  position: fixed;
+  top: 10px;
+  right: 20px;
+  background-color: #ff8c00;
+  padding: 10px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.cart-widget a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* Estilo do Cart */
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.cart-item button {
+  background-color: #ff4444;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.cart-item button:hover {
+  background-color: #ff2222;
+}
+
+.cart-summary {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #ddd;
+}
+
+.cart-summary button {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.cart-summary button:hover {
+  background-color: #218838;
+}
+
+/* Estilo do ItemDetail */
+.item-detail {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.item-detail h1 {
+  color: #333;
+}
+
+.item-detail p {
+  color: #555;
+}
+
+.item-detail button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.item-detail button:hover {
+  background-color: #0056b3;
+}
+
+.item-detail .btn-success {
+  background-color: #28a745;
+  margin-top: 15px;
+}
+
+.item-detail .btn-success:hover {
+  background-color: #218838;
+}
+
+.item-detail .btn-danger {
+  background-color: #dc3545;
+  margin-top: 15px;
+}
+
+.item-detail .btn-danger:hover {
+  background-color: #c82333;
+}
