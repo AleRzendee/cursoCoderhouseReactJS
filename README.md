@@ -11,6 +11,7 @@
 <li>Aula 6 ( Catálogo com maps e promises )</li>
 <li>Aula 7 ( Detalhe do Produto )</li>
 <li>Aula 8 ( Primeira Entrega )</li>
+<li>Aula 9 ( Sincronizar Counter )</li>
 
 </ul>
 
