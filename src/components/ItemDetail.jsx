@@ -20,8 +20,7 @@ function ItemDetail({ item }) {
   return (
     <div className="container">
       <div className="item-detail">
-        <h1>Detalhes do Item</h1>
-        <p>{item.name}</p>
+        <h1>{item.name}</h1>
         <p>Preço: R${item.price}</p>
         <p>Estoque: {item.stock}</p>
         {quantityToAdd === null ? (
@@ -29,7 +28,9 @@ function ItemDetail({ item }) {
         ) : (
           <div>
             <p>Você adicionou {quantityToAdd} itens ao carrinho.</p>
-            <button onClick={handleGoToCart}>Finalizar Compra</button>
+            <button onClick={handleGoToCart} className="btn btn-primary">
+              Finalizar minha compra
+            </button>
           </div>
         )}
       </div>
