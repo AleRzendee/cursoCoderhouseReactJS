@@ -1,5 +1,3 @@
-<h1>Screenshot of result</h1>
-
 <h2>Descrição:</h2>
 <hr>
 <div>
