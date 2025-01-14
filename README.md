@@ -10,10 +10,13 @@
 <li>Aula 5 ( Contador com botão )</li>
 <li>Aula 6 ( Catálogo com maps e promises )</li>
 <li>Aula 7 ( Detalhe do Produto )</li>
-<li>Aula 8 ( Primeira Entrega )</li>
+<li>Aula 8 ( Entrega Parcial do Projeto Final )</li>
 <li>Aula 9 ( Sincronizar Counter )</li>
 <li>Aula 10 ( CartContext )</li>
 <li>Aula 11 ( Cart View )</li>
+<li>Aula 12 ( Item Collection I )</li>
+<li>Aula 13 ( Item Collection II )</li>
+<li>Aula 14 ( Entrega do Projeto Final )</li>
 
 </ul>
 
